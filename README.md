@@ -41,7 +41,7 @@ Run this app locally by:
 ```
 python app.py
 ```
-Open http://127.0.0.1:8050/ in your browser, you will see a live-updating dashboard.
+Open http://127.0.0.1:8050/ in your browser, you will see a dashboard with multiple visualizations and relations regarding the big 6 tech giants stocks.
 
 ## Resources and references
 * [Dash User Guide](https://dash.plot.ly/)
